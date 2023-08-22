@@ -1,8 +1,8 @@
 # VolumeCalculator  
 
-![](ekran1(3).png) 
+![](foto1png) 
 
-![](ekran1(2).png) 
+![](foto2.png) 
 
-![](ekran1(1).png)
+![](foto3.png)
 
