@@ -1,6 +1,6 @@
 # VolumeCalculator  
 
-![](foto1png) 
+![](foto1.png) 
 
 ![](foto2.png) 
 
